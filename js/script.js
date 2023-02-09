@@ -4,7 +4,7 @@ const app = Vue.createApp({
         return {
 
             myText: "Questo è il titolo della pagina",
-            myImg: "./img/neverland.jpg",
+            myImg: "./img/jungle.jpg",
 
 
         }
